@@ -144,7 +144,7 @@ https://remix.run/blog/remix-vs-next#architectural-divergence
 - Code colocation
 - Nested Router de verdade
 - Domínio sobre fundamentos da Web
-- Remix é a melhor ponte React Developer -> Mundo do Backend
+- Remix é a melhor ponte React Developer -> Mundo do Backend (e vice-versa)
 
 <!-- v -->
 ![nested routes](/assets/nested-routes.gif)
