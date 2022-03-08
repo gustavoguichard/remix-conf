@@ -113,7 +113,7 @@ https://2021.stateofjs.com/en-US/libraries/front-end-frameworks
 - Falta de clareza sobre algumas responsabilidades
 - Desenvolvimento de unhappy path
 - Spinners, problemas de performance, exagero de requisições
-- CORS
+- CORS - Cross-Origin Resource Sharing
 - 2 plataformas de deploy, 2 infraestruturas
 - Falhas de segurança
 
@@ -145,6 +145,9 @@ https://remix.run/blog/remix-vs-next#architectural-divergence
 - Nested Router de verdade
 - Domínio sobre fundamentos da Web
 - Remix é a melhor ponte React Developer -> Mundo do Backend
+
+<!-- v -->
+![nested routes](/assets/nested-routes.gif)
 
 <!-- v -->
 ### Todo o código que não temos que escrever ☀️
