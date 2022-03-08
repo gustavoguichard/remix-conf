@@ -1,0 +1,11 @@
+{
+  "name": "remix-meetup-20220308",
+  "version": "1",
+  "description": "Slides for the meetup",
+  "scripts": {
+    "start": "reveal-md index.md"
+  },
+  "dependencies": {
+    "reveal-md": "^5.1.3"
+  }
+}
